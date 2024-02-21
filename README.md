@@ -9,7 +9,7 @@ https://github.com/Bramhais/Web-Based-Quiz-Application-
 
 Portfolio Using HTML, CSS, JAVASCRIPT
 
-https://bramhais.github.io/Brahmadev_Ghugare_PortFolio/
+https://bramhais.github.io/My-Portfolio-Website./
 
 Blub Project Using HTML, CSS, JAVASCRIPT
 
