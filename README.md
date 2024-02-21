@@ -1,6 +1,7 @@
 # My_Project
-Design-And-Develop-Gym-Website
+Design-And-Developed-Gym-Website
 
+https://bramhais.github.io/Design-Developed-Gym-Website/
 
 Web Based Quiz Application 
 
