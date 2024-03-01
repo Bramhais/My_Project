@@ -15,6 +15,6 @@ Blub Project Using HTML, CSS, JAVASCRIPT
 
  https://bramhais.github.io/Blub-Project-Using-HTML-CSS-JAVASCRIPT/
 
-Using HTML, CSS, JAVASCRIPT Create Calculator
+Using HTML, CSS, JAVASCRIPT Created Calculator
 
 https://bramhais.github.io/Calculator-Project/
